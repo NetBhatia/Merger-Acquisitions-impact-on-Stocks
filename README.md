@@ -1,7 +1,7 @@
 # Title: Movie’s budget vs OMDB rating
 This EDA project examines the relationship between movie revenue and ratings, specifically focusing on how a movie's ratings, both user and critic ratings, might impact its box office revenue. The project uses data obtained from the OMDB API to analyze various aspects of movies, including ratings, revenue, and genres.
 
-Key Questions:
+# Key Questions:
 The analysis seeks to answer the following key questions:
 Is a movie's revenue dependent on the ratings it earns?
 Is the count of votes a key factor towards a movie's ratings?
